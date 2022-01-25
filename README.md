@@ -13,6 +13,3 @@ Built With
 Anaconda(Spyder IDE)
 
 
-## SnapShot :-
-
-<img src="Images/capture-1.png">
