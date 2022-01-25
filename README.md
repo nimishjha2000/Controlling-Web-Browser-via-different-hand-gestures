@@ -1,17 +1,9 @@
-# Hand-Web-Browser
-Web Browser control using hand gestures
+# Hand-web Browser – Controlling Web Browser via different hand gestures
 
-Hand-Web Browser
-Web Browsers is a very common software application which we use everyday everyhour. Use of technology can make use of 
-web browsers more simple.We know about hand gestures. Why not try hand gestures to control your browser itself?
+The Objective of my hack is to design a robust and efficient system which will be able to control the browser via hand gestures i.e. different hand gestures will be assigned to different sites. So, if we show a particular hand gesture, a particular site will open up in a new tab.
 
-Prerequisites:-
-Anaconda (Spyder IDE)
-Installed OpenCV Package
-
-Anaconda can be installed by following the steps on --> https://conda.io/docs/installation.html
-To install openCV check this--> https://stackoverflow.com/questions/23119413/how-do-i-install-python-opencv-through-conda
-
+Everyone has some sites which are used very frequently. For example:- If someone is fond of social media, he/she can assign different hand gestures for sites such as Facebook, Instagram, and youtube. So, instead of typing the whole site name, you would be able to open the site in a new tab with just a hand gesture.
+ 
 
 Open and run main.py
 Enter the sites name for different gestures as asked
@@ -19,4 +11,8 @@ Now use the hand gestures to control your web browser
 
 Built With
 Anaconda(Spyder IDE)
+
+
+## SnapShot :-
+
 
